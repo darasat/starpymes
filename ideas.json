@@ -4,16 +4,16 @@
       "mediaType": "image",
       "media": "https://loremflickr.com/320/240",
       "duration": "5.0",
-      "caption": "What do you think about this guy? He doing music, boxing, youtube. Like tf, how?",
-      "when": "14 hours ago",
+      "caption": "que piensas? seguro te gusta starpymes y quieres ver novedades?",
+      "when": "14 hours atrás",
       "color": ""
     },
     {
       "mediaType": "text",
       "media": "",
       "duration": "4.0",
-      "caption": "Did you know the Earth was flat until God provided an update?",
-      "when": "3 hours ago",
+      "caption": "Puedes conocer mas de nosotros en https://stratosoft.co",
+      "when": "3 horas atrás",
       "color": "#303f9f"
     },
     {
@@ -46,23 +46,16 @@
       "media": "",
       "duration": "4.0",
       "caption": "descarga la app!! 😁😁",
-      "when": "7 minutes ago",
+      "when": "7 minutos atrás",
       "color": "#d32f2f"
     },
-    {
-      "mediaType": "image",
-      "media": "https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif",
-      "duration": "5.0",
-      "caption": "I'm so happy. Today turned out to be the best. Woohhh!!🤣🤣",
-      "when": "6 minutes ago",
-      "color": ""
-    },
+  
     {
       "mediaType": "text",
       "media": "",
       "duration": "4.0",
-      "caption": "I hope you enjoyed the stories. Now go ahead and add stories to your app with the story_view library.",
-      "when": "just now",
+      "caption": "Esperamos que hayas disfrutado las historias, pronto tendremos novedades para ti",
+      "when": "justo ahora",
       "color": "#ff8f00"
     }
   ]
